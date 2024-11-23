@@ -1,0 +1,24 @@
+h4 {
+    font-family: 'Roboto', sans-serif;
+    color: #484848;
+    font-weight: 700;
+  }
+  
+  #add-image {
+    float: right;
+    font-weight: 500;
+  }
+  
+  .container {
+    padding: 15px;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .col-md-6, .col-xl-4, .col-12 {
+    margin-bottom: 15px;
+  }
+  
